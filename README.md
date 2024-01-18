@@ -1,6 +1,6 @@
 **This project is a simple web application that allows users to retrieve and display GitHub user information and repositories. It utilizes the GitHub API to fetch user details and repositories based on the provided GitHub username. The user interface is designed to be user-friendly, with features like pagination and the ability to customize the number of repositories displayed per page.**
 
-# Technologies Used":
+# Technologies Used:
 **HTML/CSS/JavaScript:** The project is built using the trio of fundamental web technologies for creating interactive and responsive user interfaces.
 
 **Bootstrap 4:** The popular CSS framework is used for styling and layout to ensure a clean and consistent design.
@@ -11,6 +11,8 @@
 
 
 # Demo link: https://65a937e768b42c1385f3033f--ornate-sfogliatella-88c6ba.netlify.app
+
+# Demo link: https://hareesh061.github.io/Fyle-Website-Development-Challenge
 
 
 # Functionality:
